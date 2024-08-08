@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Arastusharma/nginx-config.git
+    repoURL: https://github.com/arastusharma/nginx-config.git
     targetRevision: HEAD
     path: Nginx
   destination: 
